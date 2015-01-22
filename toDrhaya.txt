@@ -11,3 +11,7 @@ and share it on the user time line
 that new simple way i coding it by my self afte a long search 
 so we may not use the first programing php file 
 the new one is depend on html and java script
+ 
+ 
+ and this :
+ http://ameersalah.byethost5.com/a2.html
