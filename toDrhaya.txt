@@ -1,0 +1,13 @@
+Hello Dr Hia 
+i wanna inform you about my free domain 
+http://ameersalah.byethost5.com
+to see how i make share link via a simple page in my website go to link:
+
+http://ameersalah.byethost5.com/a1.html
+
+how it works ?
+ok it retrive the link of the page that user access it
+and share it on the user time line 
+that new simple way i coding it by my self afte a long search 
+so we may not use the first programing php file 
+the new one is depend on html and java script
