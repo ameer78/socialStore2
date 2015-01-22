@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>Untitled 2</title>
+</head>
+
+<body>
+<div >
+</div>
+
+<script type="text/javascript">
+function my(url){
+minwindow=new window(url,'name','height=200,width=150');
+if(window.focus){window.focus();}
+
+}
+</script>
+
+
+<script  type="text/javascript">
+
+function popfbup(url) {
+newwindow=window.open('https://www.facebook.com/sharer/sharer.php?u='+window.location.href,'name','height=200,width=150');
+if (window.focus) {newwindow.focus()}
+return false;
+}
+
+
+</script>
+<a href="javascript:void(0)" onclick="return popfbup('')">Link to facebook</a>
+
+<br>
+<br>
+<br>
+<br>
+
+</body>
+
+</html>
