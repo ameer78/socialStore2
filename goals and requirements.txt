@@ -1,0 +1,14 @@
+reuqirements and  goals:
+        social store:
+        1)users make their account 
+        2)users sharing data
+        3)users add their products
+        4)user sell,buy and rate the products
+        5)chatting between users
+        6)user add its comment to the product 
+        7)user get notification in their mobiles (not sure in their social account)
+        8)admin still updating the site 
+        9)may or not may :
+        -full connection with social media (Facebook,twitter,Google+)
+        10)web app of mobile on Android 
+        11)we will use reusable components and we will mention that we use it.
